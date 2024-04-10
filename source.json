@@ -13,6 +13,7 @@
     },
     "bannerUrl":"banner.png",
         "githubRepos":[
-        "DrBlackRat/USharpVideoModernUI"
+        "DrBlackRat/USharpVideoModernUI",
+        "DrBlackRat/VRC-Picture-Loader"
     ]
 }
