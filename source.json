@@ -1,5 +1,5 @@
 {
-    "name":"DrBlackRat's VPM Listing",
+    "name":"DrBlackRat's VCC / VPM Listing",
     "id":"xyz.drblackrat.vpm",
     "url":"https://drblackrat.github.io/vpm-listing/index.json",
     "author":{
@@ -8,8 +8,8 @@
     },
     "description":"A listing of all my packages available for use in the VRChat Creator Companion",
     "infoLink":{
-        "url":"https://github.com/DrBlackRat/vpm-listing",
-        "text":"View on GitHub"
+        "url":"https://drblackrat.xyz",
+        "text":"My Socials"
     },
     "bannerUrl":"banner.png",
         "githubRepos":[
