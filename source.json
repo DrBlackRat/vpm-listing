@@ -1,20 +1,21 @@
 {
-    "name":"DrBlackRat's VCC / VPM Listing",
+    "name":"DrBlackRat's VPM Listing",
     "id":"xyz.drblackrat.vpm",
     "url":"https://drblackrat.github.io/vpm-listing/index.json",
     "author":{
         "name":"DrBlackRat",
         "url":"https://drblackrat.xyz"
     },
-    "description":"A listing of all my packages available for use in the VRChat Creator Companion",
+    "description":"A listing of all my packages available for use in the VRChat Creator Companion!",
     "infoLink":{
         "url":"https://github.com/DrBlackRat/vpm-listing/",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
         "githubRepos":[
-        "DrBlackRat/USharpVideoModernUI",
+        "DrBlackRat/VRC-Secure-Networking",
         "DrBlackRat/VRC-Picture-Loader",
-        "DrBlackRat/VRC-Simple-String-Loader"
+        "DrBlackRat/VRC-Simple-String-Loader",
+        "DrBlackRat/USharpVideoModernUI"
     ]
 }
