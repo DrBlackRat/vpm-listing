@@ -13,6 +13,10 @@
     },
     "bannerUrl":"banner.png",
         "githubRepos":[
+        "DrBlackRat/VRC-ModernUIs",
+        "DrBlackRat/VRC-ModernUIs-Integration-AccesTXL",
+        "DrBlackRat/VRC-ModernUIs-Integration-DisBridge",
+        "DrBlackRat/VRC-ModernUIs-Integration-VRCLinking",
         "DrBlackRat/VRC-Secure-Networking",
         "DrBlackRat/VRC-Picture-Loader",
         "DrBlackRat/VRC-Simple-String-Loader",
